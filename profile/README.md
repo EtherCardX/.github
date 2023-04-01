@@ -15,6 +15,8 @@
 
 ## Motivation
 
+We wanted to answer the question: “How might we simplify crypto payments for more users without compromising security?”. Ethercard is designed to be user-friendly, with a mobile app that enables users to request and receive crypto with just a few taps. 
+
 ## Deployments:
 
 ### Scroll Alpha Testnet
